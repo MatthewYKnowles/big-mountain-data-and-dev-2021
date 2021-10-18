@@ -1,0 +1,23 @@
+{
+  "name": "big-mountain-data-and-dev-2021",
+  "version": "1.0.0",
+  "description": "presentation for Big Mountain Data and Dev 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start",
+    "karma": "karma init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewYKnowles/big-mountain-data-and-dev-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/MatthewYKnowles/big-mountain-data-and-dev-2021#readme",
+  "devDependencies": {
+    "jasmine": "^3.9.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-coverage": "^2.0.3",
+    "karma-jasmine": "^4.0.1"
+  }
+}
